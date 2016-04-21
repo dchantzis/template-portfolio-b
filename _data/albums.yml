@@ -17,53 +17,53 @@
     - title: "Image 1"
       cover: true
       src:
-        thumb: album-images/placeholder.png
-        fullsize: album-images/placeholder.png
+        thumb: https://placeholdit.imgix.net/~text?txtsize=84&bg=cccccc&txt=320x477&w=320&h=477
+        fullsize: https://placeholdit.imgix.net/~text?txtsize=84&bg=cccccc&txt=320x477&w=320&h=477
     - title: "Image 2"
       cover: false
       src:
-        thumb: album-images/placeholder.png
-        fullsize: album-images/placeholder.png
+        thumb: https://placeholdit.imgix.net/~text?txtsize=84&bg=B9BCBD&txt=320x477&w=320&h=477
+        fullsize: https://placeholdit.imgix.net/~text?txtsize=84&bg=B9BCBD&txt=320x477&w=320&h=477
     - title: "Image 3"
       cover: false
       src:
-        thumb: album-images/placeholder.png
-        fullsize: album-images/placeholder.png
+        thumb: https://placeholdit.imgix.net/~text?txtsize=84&bg=CACBCC&txt=320x477&w=320&h=477
+        fullsize: https://placeholdit.imgix.net/~text?txtsize=84&bg=CACBCC&txt=320x477&w=320&h=477
     - title: "Image 4"
       cover: false
       src:
-        thumb: album-images/placeholder.png
-        fullsize: album-images/placeholder.png
+        thumb: https://placeholdit.imgix.net/~text?txtsize=84&bg=B8BABA&txt=320x477&w=320&h=477
+        fullsize: https://placeholdit.imgix.net/~text?txtsize=84&bg=B8BABA&txt=320x477&w=320&h=477
     - title: "Image 5"
       cover: false
       src:
-        thumb: album-images/placeholder.png
-        fullsize: album-images/placeholder.png
+        thumb: https://placeholdit.imgix.net/~text?txtsize=84&bg=ACADAD&txt=320x477&w=320&h=477
+        fullsize: https://placeholdit.imgix.net/~text?txtsize=84&bg=ACADAD&txt=320x477&w=320&h=477
     - title: "Image 6"
       cover: false
       src:
-        thumb: album-images/placeholder.png
-        fullsize: album-images/placeholder.png
+        thumb: https://placeholdit.imgix.net/~text?txtsize=84&bg=B9BCBD&txt=320x477&w=320&h=477
+        fullsize: https://placeholdit.imgix.net/~text?txtsize=84&bg=B9BCBD&txt=320x477&w=320&h=477
     - title: "Image 7"
       cover: false
       src:
-        thumb: album-images/placeholder.png
-        fullsize: album-images/placeholder.png
+        thumb: https://placeholdit.imgix.net/~text?txtsize=84&bg=969899&txt=320x477&w=320&h=477
+        fullsize: https://placeholdit.imgix.net/~text?txtsize=84&bg=969899&txt=320x477&w=320&h=477
     - title: "Image 8"
       cover: false
       src:
-        thumb: album-images/placeholder.png
-        fullsize: album-images/placeholder.png
+        thumb: https://placeholdit.imgix.net/~text?txtsize=84&bg=DCDDDE&txt=320x477&w=320&h=477
+        fullsize: https://placeholdit.imgix.net/~text?txtsize=84&bg=DCDDDE&txt=320x477&w=320&h=477
     - title: "Image 9"
       cover: false
       src:
-        thumb: album-images/placeholder.png
-        fullsize: album-images/placeholder.png
+        thumb: https://placeholdit.imgix.net/~text?txtsize=84&bg=9B9D9E&txt=320x477&w=320&h=477
+        fullsize: https://placeholdit.imgix.net/~text?txtsize=84&bg=9B9D9E&txt=320x477&w=320&h=477
     - title: "Image 10"
       cover: false
       src:
-        thumb: album-images/placeholder.png
-        fullsize: album-images/placeholder.png
+        thumb: https://placeholdit.imgix.net/~text?txtsize=84&bg=B9BCBD&txt=320x477&w=320&h=477
+        fullsize: https://placeholdit.imgix.net/~text?txtsize=84&bg=B9BCBD&txt=320x477&w=320&h=477
 
 - album:
   title: album 02
@@ -77,35 +77,35 @@
     - title: "Image 1"
       cover: true
       src:
-        thumb: album-images/placeholder.png
-        fullsize: album-images/placeholder.png
-    - title: "Image 1"
+        thumb: https://placeholdit.imgix.net/~text?txtsize=84&bg=cccccc&txt=320x477&w=320&h=477
+        fullsize: https://placeholdit.imgix.net/~text?txtsize=84&bg=cccccc&txt=320x477&w=320&h=477
+    - title: "Image 2"
       cover: false
       src:
-        thumb: album-images/placeholder.png
-        fullsize: album-images/placeholder.png
+        thumb: https://placeholdit.imgix.net/~text?txtsize=84&bg=B9BCBD&txt=320x477&w=320&h=477
+        fullsize: https://placeholdit.imgix.net/~text?txtsize=84&bg=B9BCBD&txt=320x477&w=320&h=477
     - title: "Image 3"
       cover: false
       src:
-        thumb: album-images/placeholder.png
-        fullsize: album-images/placeholder.png
+        thumb: https://placeholdit.imgix.net/~text?txtsize=84&bg=CACBCC&txt=320x477&w=320&h=477
+        fullsize: https://placeholdit.imgix.net/~text?txtsize=84&bg=CACBCC&txt=320x477&w=320&h=477
     - title: "Image 4"
       cover: false
       src:
-        thumb: album-images/placeholder.png
-        fullsize: album-images/placeholder.png
+        thumb: https://placeholdit.imgix.net/~text?txtsize=84&bg=B8BABA&txt=320x477&w=320&h=477
+        fullsize: https://placeholdit.imgix.net/~text?txtsize=84&bg=B8BABA&txt=320x477&w=320&h=477
     - title: "Image 5"
       cover: false
       src:
-        thumb: album-images/placeholder.png
-        fullsize: album-images/placeholder.png
+        thumb: https://placeholdit.imgix.net/~text?txtsize=84&bg=ACADAD&txt=320x477&w=320&h=477
+        fullsize: https://placeholdit.imgix.net/~text?txtsize=84&bg=ACADAD&txt=320x477&w=320&h=477
     - title: "Image 6"
       cover: false
       src:
-        thumb: album-images/placeholder.png
-        fullsize: album-images/placeholder.png
+        thumb: https://placeholdit.imgix.net/~text?txtsize=84&bg=B9BCBD&txt=320x477&w=320&h=477
+        fullsize: https://placeholdit.imgix.net/~text?txtsize=84&bg=B9BCBD&txt=320x477&w=320&h=477
     - title: "Image 7"
       cover: false
       src:
-        thumb: album-images/placeholder.png
-        fullsize: album-images/placeholder.png
+        thumb: https://placeholdit.imgix.net/~text?txtsize=84&bg=969899&txt=320x477&w=320&h=477
+        fullsize: https://placeholdit.imgix.net/~text?txtsize=84&bg=969899&txt=320x477&w=320&h=477
