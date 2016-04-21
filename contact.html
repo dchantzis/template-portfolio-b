@@ -20,3 +20,6 @@ weight: 5
 {% else %}
   {% include just-text.html %}
 {% endif %}
+
+<script src="{{ site.baseurl }}/assets/js/map.js"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key={{ site.google-api-key }}&callback=initMap"></script>

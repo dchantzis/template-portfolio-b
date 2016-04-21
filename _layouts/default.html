@@ -2,7 +2,7 @@
 <html lang="en-ca">
 <head>
   <meta charset="utf-8">
-  <title>{% if page.titleBefore %}{{page.titleBefore}} · {% endif %}{% if page.title %}{{page.title}} · {% endif %}Janina Mohr{% if page.titleAfter %} · {{page.titleAfter}}{% endif %}</title>
+  <title>{% if page.titleBefore %}{{page.titleBefore}} · {% endif %}{% if page.title %}{{page.title}} · {% endif %}{{site.website-title}}{% if page.titleAfter %} · {{page.titleAfter}}{% endif %}</title>
 
   <meta name="handheldfriendly" content="true">
   <meta name="mobileoptimized" content="240">
@@ -11,7 +11,7 @@
   <meta name="description" content="{{ page.meta }}">
   <meta name="author" content="{{ page.author }}">
 
-  <meta property="og:title" content="{% if page.titleBefore %}{{page.titleBefore}} · {% endif %}{% if page.title %}{{page.title}} · {% endif %}Janina Mohr{% if page.titleAfter %} · {{page.titleAfter}} {% endif %}">
+  <meta property="og:title" content="{% if page.titleBefore %}{{page.titleBefore}} · {% endif %}{% if page.title %}{{site.website-title}} · {% endif %}Website title{% if page.titleAfter %} · {{page.titleAfter}} {% endif %}">
   <meta property="og:image" content="{{ page.image }}">
   <meta property="og:description" content="{{ page.meta }}">
 
@@ -36,8 +36,6 @@
 
   <script src="{{ site.baseurl }}/assets/js/jquery-1.12.3.min.js"></script>
   <script src="{{ site.baseurl }}/assets/js/main.js"></script>
-  <script src="{{ site.baseurl }}/assets/js/map.js"></script>
-  <script async defer src="https://maps.googleapis.com/maps/api/js?key={{ site.google-api-key }}&callback=initMap"></script>
   {% include analytics-tracking.html %}
 
 </body>

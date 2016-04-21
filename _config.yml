@@ -1,5 +1,6 @@
 markdown: kramdown
 baseurl: /template-portfolio-b
+website-title: Website title
 exclude: ['README.md', '.gitignore']
 permalink: pretty
 google-api-key:
