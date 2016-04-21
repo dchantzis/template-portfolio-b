@@ -23,4 +23,4 @@
 - <https://github.com/dchantzis>
 
 ## Screenshots
-![Image 1](http://dchantzis.github.io/template-portfolio-b/screenshots/screenshot.png)
+![Image 1](http://dchantzis.github.io/template-portfolio-b/assets/img/screenshots/screenshot.png)
