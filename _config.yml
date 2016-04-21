@@ -1,5 +1,5 @@
 markdown: kramdown
-baseurl: /janinamohr
+baseurl: /template-portfolio-b
 exclude: ['README.md', '.gitignore']
 permalink: pretty
 google-api-key:
