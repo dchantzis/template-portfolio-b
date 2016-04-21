@@ -12,7 +12,7 @@
   <meta name="author" content="{{ page.author }}">
   <meta name="keywords" content="{% for keyword in site.data.meta-keywords %}{{keyword}}, {% endfor %}">
 
-  <meta property="og:title" content="{% if page.titleBefore %}{{page.titleBefore}} · {% endif %}{% if page.title %}{{site.website-title}} · {% endif %}Website title{% if page.titleAfter %} · {{page.titleAfter}} {% endif %}">
+  <meta property="og:title" content="{% if page.titleBefore %}{{page.titleBefore}} · {% endif %}{% if page.title %}{{page.title}} · {% endif %}{{site.website-title}}{% if page.titleAfter %} · {{page.titleAfter}}{% endif %}">
   <meta property="og:image" content="{{ page.image }}">
   <meta property="og:description" content="{{ page.meta }}">
 
