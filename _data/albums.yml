@@ -1,0 +1,111 @@
+- album:
+  title: album 01
+  slug: album-01
+  description:
+    header: Album 01
+    lines: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce risus est, blandit ac felis sit amet, hendrerit laoreet risus. Donec efficitur quam magna, ac hendrerit sapien congue in. Integer libero ligula, mattis venenatis malesuada in, interdum et tortor. Integer quis ullamcorper ante.
+
+      Fusce sit amet mauris consectetur, imperdiet metus dictum, dignissim dui. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+
+      Etiam auctor volutpat convallis. Ut tincidunt nisl sit amet aliquam malesuada. Vestibulum diam ipsum, auctor nec ante et, pharetra ultricies dolor.
+    links:
+      - href: http://www.google.com
+        text: www.google.com
+        external: true
+  images:
+    - title: "Image 1"
+      cover: true
+      src:
+        thumb: album-images/placeholder.png
+        fullsize: album-images/placeholder.png
+    - title: "Image 2"
+      cover: false
+      src:
+        thumb: album-images/placeholder.png
+        fullsize: album-images/placeholder.png
+    - title: "Image 3"
+      cover: false
+      src:
+        thumb: album-images/placeholder.png
+        fullsize: album-images/placeholder.png
+    - title: "Image 4"
+      cover: false
+      src:
+        thumb: album-images/placeholder.png
+        fullsize: album-images/placeholder.png
+    - title: "Image 5"
+      cover: false
+      src:
+        thumb: album-images/placeholder.png
+        fullsize: album-images/placeholder.png
+    - title: "Image 6"
+      cover: false
+      src:
+        thumb: album-images/placeholder.png
+        fullsize: album-images/placeholder.png
+    - title: "Image 7"
+      cover: false
+      src:
+        thumb: album-images/placeholder.png
+        fullsize: album-images/placeholder.png
+    - title: "Image 8"
+      cover: false
+      src:
+        thumb: album-images/placeholder.png
+        fullsize: album-images/placeholder.png
+    - title: "Image 9"
+      cover: false
+      src:
+        thumb: album-images/placeholder.png
+        fullsize: album-images/placeholder.png
+    - title: "Image 10"
+      cover: false
+      src:
+        thumb: album-images/placeholder.png
+        fullsize: album-images/placeholder.png
+
+- album:
+  title: album 02
+  slug: album-02
+  description:
+    header: Album 02
+    lines: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce risus est, blandit ac felis sit amet, hendrerit laoreet risus. Donec efficitur quam magna, ac hendrerit sapien congue in. Integer libero ligula, mattis venenatis malesuada in, interdum et tortor. Integer quis ullamcorper ante.
+    links:
+  images:
+    - title: "Image 1"
+      cover: true
+      src:
+        thumb: album-images/placeholder.png
+        fullsize: album-images/placeholder.png
+    - title: "Image 1"
+      cover: false
+      src:
+        thumb: album-images/placeholder.png
+        fullsize: album-images/placeholder.png
+    - title: "Image 3"
+      cover: false
+      src:
+        thumb: album-images/placeholder.png
+        fullsize: album-images/placeholder.png
+    - title: "Image 4"
+      cover: false
+      src:
+        thumb: album-images/placeholder.png
+        fullsize: album-images/placeholder.png
+    - title: "Image 5"
+      cover: false
+      src:
+        thumb: album-images/placeholder.png
+        fullsize: album-images/placeholder.png
+    - title: "Image 6"
+      cover: false
+      src:
+        thumb: album-images/placeholder.png
+        fullsize: album-images/placeholder.png
+    - title: "Image 7"
+      cover: false
+      src:
+        thumb: album-images/placeholder.png
+        fullsize: album-images/placeholder.png

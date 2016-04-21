@@ -1,0 +1,11 @@
+---
+layout: page
+---
+
+{% assign page-slug = page.title | downcase | slugify %}
+{% assign albums = site.data.albums| where:"slug",page-slug %}
+{% assign album = albums[0] %}
+
+{% include album.html %}
+
+{% include image-lightbox.html %}

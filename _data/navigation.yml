@@ -1,0 +1,19 @@
+- title: "short films"
+  link: "short-films"
+  type: "main"
+
+- title: "collections"
+  link: "collections"
+  type: "main"
+
+- title: "artwork"
+  link: "artwork"
+  type: "main"
+
+- title: "about"
+  link: "about"
+  type: "main"
+
+- title: "contact"
+  link: "contact"
+  type: "main"

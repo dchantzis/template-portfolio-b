@@ -1,0 +1,46 @@
+---
+layout: page
+title: About
+titleBefore:
+titleAfter:
+meta: "Page description"
+author:
+image:
+keywords:
+priority: 1.0
+sectionClass:
+includeInNavigation: true
+weight: 4
+---
+
+{% assign info = site.data.about %}
+
+<section class="section-media">
+
+  <div class="grid grit-bottom">
+
+    <div class="unit [ xs-1 s-1 m-1 l-3-4 ] push-1-2">
+
+      <div class="grid">
+        <div class="unit [ xs-1 s-1 m-1-2 l-1-2 ] push-1-2 section-profile-picture">
+          <div class="embed embed-iso216">
+            <img class="embed-item img-flex" src="{{ site.baseurl }}/assets/img/{{ info.profile-image }}" alt="">
+          </div>
+        </div>
+
+        <div class="unit [ xs-1 s-1 m-1-2 l-1-2 ] section-text text-center">
+          <div class="push-0 micro section-description">{{ info.bio | newline_to_br | markdownify }}</div>
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="unit [ xs-1 s-1 m-1-2 l-1-4 ] section-text text-center">
+      <h3 class="push-0 text-upper micro">{{ info.header }}</h3>
+      <div class="push-0 micro section-description">{{ info.description | newline_to_br | markdownify }}</div>
+    </div>
+
+  </div>
+
+</section>

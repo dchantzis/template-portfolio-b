@@ -1,0 +1,19 @@
+.list-group {
+	display: block;
+	padding: 0;
+
+	list-style-type: none;
+}
+
+.list-group__item {
+	display: block;
+}
+
+/* In case custom bullets are used */
+.list-group__item::before {
+	content: none;
+}
+
+.list-group__item--inline {
+	display: inline-block;
+}

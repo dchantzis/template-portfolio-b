@@ -1,0 +1,10 @@
+{% assign pages = site.pages | sort:"weight"  %}
+<ul class="list-group push-0 brand-family">
+  {% for page in pages %}
+    {% if true == page.includeInNavigation %}
+      <li class="list-group__item">
+        <a class="gutter-1-2 pad-t-1-2 pad-b-1-2" href="{{site.baseurl}}{{ page.url}}">{{page.title | downcase}}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>

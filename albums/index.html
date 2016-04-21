@@ -1,0 +1,20 @@
+---
+layout: page
+title: Albums
+titleBefore:
+titleAfter:
+meta: "Page description"
+author:
+image:
+keywords:
+priority: 1.0
+sectionClass:
+weight: 2
+includeInNavigation: true
+---
+
+{% for album in site.data.albums %}
+  {% include album.html %}
+{% endfor %}
+
+{% include image-lightbox.html %}

@@ -1,0 +1,22 @@
+---
+layout: page
+title: Contact
+titleBefore:
+titleAfter:
+meta: "Contact information"
+author:
+image:
+keywords:
+priority: 1.0
+sectionClass:
+includeInNavigation: true
+weight: 5
+---
+
+{% assign info = site.data.contact %}
+
+{% if info.include-google-map %}
+  {% include map-and-text.html %}
+{% else %}
+  {% include just-text.html %}
+{% endif %}

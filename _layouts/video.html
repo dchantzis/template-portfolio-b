@@ -1,0 +1,9 @@
+---
+layout: page
+---
+
+{% assign page-slug = page.title | downcase | slugify %}
+{% assign videos = site.data.videos| where:"slug",page-slug %}
+{% assign video = videos[0] %}
+
+{% include video.html %}

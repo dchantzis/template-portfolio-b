@@ -1,0 +1,19 @@
+---
+layout: page
+title: Videos
+titleBefore:
+titleAfter:
+meta: "Page description"
+author:
+image:
+keywords:
+priority: 1.0
+sectionClass:
+weight: 1
+includeInNavigation: true
+---
+
+{% for video in site.data.videos %}
+  {% include video.html %}
+{% endfor %}
+

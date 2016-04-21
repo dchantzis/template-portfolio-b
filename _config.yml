@@ -1,0 +1,9 @@
+markdown: kramdown
+baseurl: /janinamohr
+exclude: ['README.md', '.gitignore']
+permalink: pretty
+google-api-key:
+analytics :
+  provider : google
+  google :
+    tracking_id :

@@ -1,0 +1,28 @@
+- video:
+  title: video 01
+  slug: video-01
+  link: https://player.vimeo.com/video/87110435
+  description:
+    header: Video 01
+    lines: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce risus est, blandit ac felis sit amet, hendrerit laoreet risus. Donec efficitur quam magna, ac hendrerit sapien congue in. Integer libero ligula, mattis venenatis malesuada in, interdum et tortor. Integer quis ullamcorper ante.
+
+      Fusce sit amet mauris consectetur, imperdiet metus dictum, dignissim dui. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+    links:
+      - href: http://www.google.com
+        text: www.google.com
+        external: true
+      - href: http://www.google.com
+        text: www.google.com
+        external: true
+
+- video:
+  title: video 02
+  slug: video-02
+  link: https://www.youtube.com/embed/ScMzIvxBSi4
+  description:
+    header: Janina Mohr 2010
+    lines: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce risus est, blandit ac felis sit amet, hendrerit laoreet risus. Donec efficitur quam magna, ac hendrerit sapien congue in. Integer libero ligula, mattis venenatis malesuada in, interdum et tortor. Integer quis ullamcorper ante.
+    links:
+
